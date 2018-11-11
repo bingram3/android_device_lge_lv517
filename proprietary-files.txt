@@ -2032,9 +2032,9 @@ vendor/lib64/libssd.so|525090a06be89db33b2b1b3295bf708cb1b1245b
 vendor/lib64/libStDrvInt.so|4b6f5b1138fe7b731fa23b20a31f7a223f1136b8
 vendor/lib64/libtzdrmgenprov.so|5ba848535a7191ee8e679b4fbbd556411b1916ef
 
-# Gatekeeper - from TA-1000 - OPR1.170623.026
-vendor/lib/hw/gatekeeper.msm8937.so|727158ab391d96d078bc0d67dbd315c512a4dc2e
-vendor/lib64/hw/gatekeeper.msm8937.so|b2507be6b3e182f6da1c5af3eaf9be8330cb3f2b
+# Gatekeeper - from riva - 8.11.6 (OPM1.171019.026)
+vendor/lib/hw/gatekeeper.msm8937.so|339167c8a72eceeb83590cee617620ae4ee2466a
+vendor/lib64/hw/gatekeeper.msm8937.so|b4e94766c49769863d4c140e0a481cc7f2f26e37
 
 # GPS - from daisy - V10.0.1.0.PDLMIFJ (PKQ1.180917.001)
 etc/permissions/com.qti.location.sdk.xml|cb68a566bd77dcc75bb7547199d528289fac01cb
